@@ -1,1 +1,1 @@
-# language.github.iodetect
+# language-detection
